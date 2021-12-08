@@ -5,8 +5,8 @@ authors = ["Alexander Weber <aw@voidpointergroup.com>"]
 edition = "2018"
 license = "MIT"
 description = "viking"
-homepage = "https://replicadse.github.io/viking"
-repository = "https://github.com/replicadse/viking"
+homepage = "https://replicadse.github.io/viking-rs"
+repository = "https://github.com/replicadse/viking-rs"
 keywords = ["viking"]
 categories = ["command-line-utilities"]
 
