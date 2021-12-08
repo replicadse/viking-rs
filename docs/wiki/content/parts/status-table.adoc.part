@@ -1,0 +1,12 @@
+[cols="1,1,1,1", grid=none]
+|===
+|image:https://img.shields.io/crates/v/viking.svg[link=https://crates.io/crates/viking]
+|image:https://img.shields.io/crates/d/viking?label=crates.io%20downloads[link=https://crates.io/crates/viking]
+|image:https://github.com/replicadse/viking/workflows/pipeline/badge.svg[link=https://github.com/replicadse/viking/actions?query=workflow%3Apipeline]
+|image:https://deps.rs/repo/github/replicadse/viking/status.svg[link=https://deps.rs/repo/github/replicadse/viking]
+|image:https://img.shields.io/badge/docs.rs:docs-latest-blue[link=https://docs.rs/viking/latest/viking]
+|image:https://img.shields.io/badge/home-GitHub-blue[link=https://github.com/replicadse/viking]
+|image:https://img.shields.io/badge/website-GitHub-blue[link=https://replicadse.github.io/viking]
+|
+|
+|===

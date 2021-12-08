@@ -1,0 +1,14 @@
+---
+doctype: article
+title: Home
+date: 2021-10-10
+draft: false
+weight: 1
+---
+:toc:
+
+== Home
+
+include::./content/parts/status-table.adoc.part[]
+
+=== Introduction
